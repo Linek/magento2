@@ -20,7 +20,9 @@ use Magento\Directory\Model\Currency\Filter;
  */
 class Currency extends \Magento\Framework\Model\AbstractModel
 {
+
     /**
+     * ss
      * CONFIG path constants
      */
     const XML_PATH_CURRENCY_ALLOW = 'currency/options/allow';
